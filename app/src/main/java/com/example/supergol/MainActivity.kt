@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.navigation.NavGraph
 import com.example.supergol.network.ApiClient
 import com.example.supergol.repository.SupergolRepository
 import com.example.supergol.ui.theme.SupergolTheme
