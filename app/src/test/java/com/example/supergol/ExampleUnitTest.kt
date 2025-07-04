@@ -1,4 +1,4 @@
-package com.example.supergolapp
+package com.example.supergol
 
 import org.junit.Test
 

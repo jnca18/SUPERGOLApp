@@ -1,4 +1,4 @@
-package com.example.supergolapp.ui.theme
+package com.example.supergol.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
